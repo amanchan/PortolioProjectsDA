@@ -5,5 +5,5 @@
 - Data Processing
 - Power Query
 - DAX
-- Time Intelligence Function
+- Time Intelligence Function using Calendar Table
 - YTD, MTD, PYTD
