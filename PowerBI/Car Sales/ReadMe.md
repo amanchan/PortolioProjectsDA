@@ -6,4 +6,6 @@
 - Power Query
 - DAX
 - Time Intelligence Function using Calendar Table
-- YTD, MTD, PYTD
+- YTD, MTD, PYTD using DAX functions like TOTALYTD, CALCULATE, FILTER
+- Canvas Backround for Visualization created using Powerpoint and stored as image
+- Conditional Formatting for KPIs like Sales Difference between YTD Sales and PYTD Sales
